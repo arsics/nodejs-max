@@ -1,0 +1,18 @@
+- uses dark+ color theme and material icon theme in VS code
+
+02.21 Javascript template literals:
+	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+	
+	https://oakdvcs.dna.fi/projects/MPOC/repos/dna-infra-mobile/browse/states/mobile-api
+	
+	https://oakdvcs.dna.fi/projects/MPOC/repos/dna-service-authentication/browse/src/controllers/authentication.controller.ts
+	https://oakdvcs.dna.fi/projects/MPOC/repos/dna-service-authentication/browse/src/repositories/authentication.repository.ts
+	https://oakdvcs.dna.fi/projects/MPOC/repos/dna-service-authentication/browse/src/dataAccess/authentication.dao.ts
+	AXIOS
+	
+	https://oakdvcs.dna.fi/projects/MPOC/repos/dna-core/browse/src/security/jwt
+	
+	1-click buy:
+		https://oakdvcs.dna.fi/projects/MPOC/repos/dna-1cb-customer-api/browse
+		
+		https://oakdvcs.dna.fi/projects/MPOC/repos/dna-api-mobile/browse
